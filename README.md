@@ -28,11 +28,9 @@ This are the wiring diagram for the project.
 ![Screenshot](https://github.com/muhammdiffat/ESP32-RFIDSmartDoorLock/blob/main/Wiring%20Diagrams/rfidwiring.png)
 
 
-
 - **Buzzer/Piezo**
 
 ![Screenshot](https://github.com/muhammdiffat/ESP32-RFIDSmartDoorLock/blob/main/Wiring%20Diagrams/piezoWiring.png)
-
 
 
 - **Magnetic Reed Switch**
@@ -43,3 +41,8 @@ This are the wiring diagram for the project.
 - **Relay Circuitry Wiring**
 
 ![Screenshot](https://github.com/muhammdiffat/ESP32-RFIDSmartDoorLock/blob/main/Wiring%20Diagrams/RelayWiring.png)
+
+
+- **Solenoid Lock Wiring**
+
+![Screenshot](https://github.com/muhammdiffat/ESP32-RFIDSmartDoorLock/blob/main/Wiring%20Diagrams/solenoidWiring.png)
