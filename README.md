@@ -23,4 +23,4 @@ This are the wiring diagram for the project.
 ![Screenshot](wiring.png)
 
 - **From ESP32 to RFID Reader**
-![WiringRFID](https://github.com/muhammdiffat/ESP32-RFIDSmartDoorLock/blob/main/Wiring%20Diagrams/rfidwiring.png)
+![Screenshot](https://github.com/muhammdiffat/ESP32-RFIDSmartDoorLock/blob/main/Wiring%20Diagrams/rfidwiring.png)
