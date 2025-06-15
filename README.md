@@ -4,6 +4,8 @@ Added some Blynk integration for features like real-time notification, registeri
 This project can be re-registered using Blynk IoT push button.
 Registered card are kept in EEPROM.
 
+IDE used for this project is Arduino IDE.
+
 Also, this is a project for final assignment of Microcontroller. So, be free to use this code.
 
 # Stuff you need
