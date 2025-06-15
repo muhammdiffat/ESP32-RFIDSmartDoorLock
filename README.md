@@ -18,7 +18,7 @@ Also, this is a project for final assignment of Microcontroller. So, be free to 
 - **12V Solenoid Lock**
 
 # Wiring Diagram
-This are the wiring diagram for the project.
+These are the wiring diagram for the project.
 
 ![Screenshot](wiring.png)
 
