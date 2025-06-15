@@ -178,7 +178,7 @@ void fungsiUtama(){
     digitalWrite(relay, LOW);
     globalStatus = 1;
     Serial.println("Pintu dibuka!");
-    Blynk.logEvent("pintu_terbuka");
+    Blynk.logEvent("//"); // Use your own Blynk Log Event
 
     delay(5000);
     Serial.println("Menunggu pintu tertutup...");
