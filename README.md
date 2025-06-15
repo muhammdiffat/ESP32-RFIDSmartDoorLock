@@ -46,3 +46,9 @@ These are the wiring diagram for the project.
 - **Solenoid Lock Wiring**
 
 ![Screenshot](https://github.com/muhammdiffat/ESP32-RFIDSmartDoorLock/blob/main/Wiring%20Diagrams/solenoidWiring.png)
+
+
+# More information about this project..
+
+Q: Why did you use different/external power adapter? Why not combine it as one?
+A: From my testing, the solenoid somehow interfering with the electromagnetic field of the RFID reader, it only can be used 1 time. After that the RFID reader could not work, unless resetting the ESP32.
