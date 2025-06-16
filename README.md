@@ -1,5 +1,5 @@
 # ESP32-RFIDSmartDoorLock
-A tutorial for building RFID door locks using the ESP32 module.
+A tutorial for building RFID door locks using ESP32 module.
 Added some Blynk integration for features like real-time notification, registering or re-registering card, and manually opening the door.
 Registered card are kept in EEPROM.
 
